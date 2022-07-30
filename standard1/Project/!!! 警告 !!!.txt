@@ -1,0 +1,17 @@
+!!! 警告 !!!
+
+存在未解决的依赖项，请手动添加它们 ！
+
+项目位置：'c:\code\standard1\Project\Project.code-workspace'
+
+---
+
+FileName: 'Drivers\CMSIS\Device\ST\STM32F4xx\Source\Templates\arm\startup_stm32f427xx.s'
+	Class:     'Device'
+	Category:  'source'
+	Location:  'RTE/Device/STM32F427ZITx/startup_stm32f427xx.s'
+
+FileName: 'Drivers\CMSIS\Device\ST\STM32F4xx\Source\Templates\system_stm32f4xx.c'
+	Class:     'Device'
+	Category:  'source'
+	Location:  'RTE/Device/STM32F427ZITx/system_stm32f4xx.c'
